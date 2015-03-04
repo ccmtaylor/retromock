@@ -30,6 +30,12 @@
             <version>4.11</version>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>com.github.tony19</groupId>
+            <artifactId>named-regexp</artifactId>
+            <version>0.2.3</version>
+        </dependency>
+
     </dependencies>
 
     <build>
